@@ -1,0 +1,22 @@
+
+    	.navbar{
+    		margin-top: 5px;
+    	}
+    	table{
+    	position:absolute;
+             
+               left:100%;
+    	}
+    	.navbar-inverse {
+        		background-color:#546000;
+     		border-color: #4FFFFF;
+    	}
+   
+    	.navbar-inverse .navbar-nav > .active > a, 
+    	.navbar-inverse .navbar-nav > .active > a:focus, 
+    	.navbar-inverse .navbar-nav > .active > a:hover {
+    
+        		color: #ff000f;
+        		background-color: #330099;
+        }
+    
